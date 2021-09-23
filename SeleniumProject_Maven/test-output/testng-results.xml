@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-18T14:28:40 IST" name="Default suite" finished-at="2021-09-18T14:29:16 IST" duration-ms="35755">
+    <groups>
+    </groups>
+    <test started-at="2021-09-18T14:28:40 IST" name="Default test" finished-at="2021-09-18T14:29:16 IST" duration-ms="35755">
+      <class name="com.crm.autodesk.OpportunitiesTest.CreateOpportunitiesWithSalesId">
+        <test-method is-config="true" signature="connectToDB()[pri:0, instance:com.crm.autodesk.OpportunitiesTest.CreateOpportunitiesWithSalesId@2e3967ea]" started-at="2021-09-18T14:28:40 IST" name="connectToDB" finished-at="2021-09-18T14:28:40 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectToDB -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.crm.autodesk.OpportunitiesTest.CreateOpportunitiesWithSalesId@2e3967ea]" started-at="2021-09-18T14:28:40 IST" name="launchBrowser" finished-at="2021-09-18T14:28:46 IST" duration-ms="5445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:com.crm.autodesk.OpportunitiesTest.CreateOpportunitiesWithSalesId@2e3967ea]" started-at="2021-09-18T14:28:46 IST" name="loginToApp" finished-at="2021-09-18T14:28:50 IST" duration-ms="4164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method signature="createOpportunitiesWithSalesIdTest()[pri:0, instance:com.crm.autodesk.OpportunitiesTest.CreateOpportunitiesWithSalesId@2e3967ea]" started-at="2021-09-18T14:28:50 IST" name="createOpportunitiesWithSalesIdTest" finished-at="2021-09-18T14:29:13 IST" duration-ms="23392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOpportunitiesWithSalesIdTest -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.crm.autodesk.OpportunitiesTest.CreateOpportunitiesWithSalesId@2e3967ea]" started-at="2021-09-18T14:29:13 IST" name="logout" finished-at="2021-09-18T14:29:16 IST" duration-ms="2164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.crm.autodesk.OpportunitiesTest.CreateOpportunitiesWithSalesId@2e3967ea]" started-at="2021-09-18T14:29:16 IST" name="closeBrowser" finished-at="2021-09-18T14:29:16 IST" duration-ms="508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="closeDB()[pri:0, instance:com.crm.autodesk.OpportunitiesTest.CreateOpportunitiesWithSalesId@2e3967ea]" started-at="2021-09-18T14:29:16 IST" name="closeDB" finished-at="2021-09-18T14:29:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDB -->
+      </class> <!-- com.crm.autodesk.OpportunitiesTest.CreateOpportunitiesWithSalesId -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
